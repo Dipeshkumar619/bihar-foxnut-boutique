@@ -24,12 +24,30 @@ const Products = () => {
       badge: "Spicy"
     },
     {
+      name: "Premium Chiroli Seeds",
+      price: "₹199",
+      originalPrice: "₹249",
+      weight: "150g",
+      rating: 4.7,
+      description: "Premium quality chiroli seeds, rich in protein and natural goodness.",
+      badge: "Healthy"
+    },
+    {
+      name: "Roasted Chiroli Mix",
+      price: "₹229",
+      originalPrice: "₹299",
+      weight: "200g",
+      rating: 4.6,
+      description: "Perfectly roasted chiroli seeds with a hint of Himalayan salt.",
+      badge: "Crunchy"
+    },
+    {
       name: "Premium Gift Box",
       price: "₹899",
       originalPrice: "₹1199",
-      weight: "500g (2 varieties)",
+      weight: "500g (4 varieties)",
       rating: 5.0,
-      description: "Beautiful gift box with classic and masala variants.",
+      description: "Beautiful gift box with makhana and chiroli varieties.",
       badge: "Premium"
     }
   ];
